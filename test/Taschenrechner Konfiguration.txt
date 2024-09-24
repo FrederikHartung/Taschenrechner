@@ -1,0 +1,4 @@
+textBoxAusgabe = text
+Zeile 1: nachKommaStellen = 2
+Zeile 2: fontSize_display = 15
+Zeile 3: fontSize_verlauf = 10

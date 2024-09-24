@@ -1,0 +1,4 @@
+Zeile 0: entweder 		textBoxAusgabe = text		oder		textBoxAusgabe = zahlen
+Zeile 1: nachKommaStellen = 4 		(default)
+Zeile 2: fontSize_display = 30		(default)
+Zeile 3: fontSize_verlauf = 20		(default)

@@ -1,0 +1,2 @@
+@"C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\test\Taschenrechner Konfiguration.txt"
+@"C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\test\DebugFile.txt"

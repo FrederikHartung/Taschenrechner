@@ -1,0 +1,140 @@
+Debug Datei erfolgreich erstellt! 
+--------------------------------------------------------------------
+Konfigurationsdatei mit folgenden Inhalt geladen:
+textBoxAusgabe = text
+Zeile 1: nachKommaStellen = 2
+Zeile 2: fontSize_display = 15
+Zeile 3: fontSize_verlauf = 10
+Setze 'textBoxAusgabe = text' (Konfigurationsdatei)
+Setze 'nachKommaStellen = 2' (Konfigurationsdatei)
+Setze 'textBox_display.FontSize = 15' (Konfigurationsdatei)
+Setze 'textBox_display.FontSize = 10' (Konfigurationsdatei)
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+-------------------------------------------------------------------- 
+ 
+ ---------------Benutzereingaben-------------
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 1
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 10
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 100
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 1000
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 10000
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 3
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 30
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 4
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 40
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0
+textBoxAusgabe: text
+ zahl1_vorDemKomma: 
+ zahl1_nachDemKomma: 
+  Operator: 
+ zahl2_vorDemKomma: 
+ zahl2_nachDemKomma: 
+Gleichzeichen: False
+ kommaGesetzt: False
+ Summe: 0

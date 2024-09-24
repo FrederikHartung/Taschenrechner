@@ -1,0 +1,135 @@
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+D:\Taschenrechner Praktikum Tag 2\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 3\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\Frederik\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+C:\Users\praktikant\source\repos\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+D:\Taschenrechner Praktikum Tag 4\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe.config
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.pdb
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csprojAssemblyReference.cache
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.g.cs
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\App.g.cs
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.cache
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2_MarkupCompile.lref
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\MainWindow.baml
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.g.resources
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner_Praktikum_Tag_2.Properties.Resources.resources
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.GenerateResource.cache
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.csproj.CoreCompileInputs.cache
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.exe
+E:\Taschenrechner Praktikum\Taschenrechner Praktikum Tag 2\obj\Debug\Taschenrechner Praktikum Tag 2.pdb

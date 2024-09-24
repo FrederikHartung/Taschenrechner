@@ -1,0 +1,77 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Taschenrechner_Praktikum_Tag_2"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Taschenrechner_Praktikum_Tag_2.MainWindow"
+        mc:Ignorable="d"
+        Title="Taschenrechner" Height="800" Width="800">
+    <Window.Resources>
+        <System:Double x:Key="display_fontsize">10</System:Double>
+        <System:Double x:Key="verlauf_fontsize">10</System:Double>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+
+        <Button Grid.Column="0" Grid.Row="3" x:Name="sieben" Content="7" Click="Btn_number_Click"/>
+        <Button Grid.Column="1" Grid.Row="3" x:Name="acht" Content="8" Click="Btn_number_Click"/>
+        <Button Grid.Column="2" Grid.Row="3" x:Name="neun" Content="9" Click="Btn_number_Click"/>
+        <Button Grid.Column="0" Grid.Row="4" x:Name="vier" Content="4" Click="Btn_number_Click"/>
+        <Button Grid.Column="1" Grid.Row="4" x:Name="fünf" Content="5" Click="Btn_number_Click"/>
+        <Button Grid.Column="2" Grid.Row="4" x:Name="sechs" Content="6" Click="Btn_number_Click"/>
+        <Button Grid.Column="0" Grid.Row="5" x:Name="eins" Content="1" Click="Btn_number_Click"/>
+        <Button Grid.Column="1" Grid.Row="5" x:Name="zwei" Content="2" Click="Btn_number_Click"/>
+        <Button Grid.Column="2" Grid.Row="5" x:Name="drei" Content="3" Click="Btn_number_Click"/>
+        <Button Grid.Column="1" Grid.Row="6" x:Name="Null" Content="0" Click="Btn_number_Click"/>
+
+
+
+        <!--    Knöpfe für die Operatoren       -->
+        <Button Grid.Column="3" Grid.Row="5" x:Name="btn_operator_plus" Content="+" Click="Btn_operator_Click" />
+        <Button Grid.Column="3" Grid.Row="4" x:Name="btn_operator_minus" Content="-" Click="Btn_operator_Click"/>
+        <Button Grid.Column="3" Grid.Row="3" x:Name="btn_operator_mal" Content="*" Click="Btn_operator_Click"/>
+        <Button Grid.Column="3" Grid.Row="2" x:Name="btn_operator_geteilt" Content="/" Click="Btn_operator_Click"/>
+
+
+
+        <!--  Knöpfe zum löschen  -->
+        <Button Grid.Column="0" Grid.Row="2" x:Name="btn_del_CE" Content="CE" Click="btn_del_CE_Click" />
+        <Button Grid.Column="1" Grid.Row="2" x:Name="btn_del_C" Content="C" Click="btn_del_C_Click" />
+        <Button Grid.Column="2" Grid.Row="2" x:Name="btn_del_backspace" Content= "Backspace" Click="btn_del_backspace_Click" />
+
+
+        <!--    Sonderfälle     -->
+
+        <Button Grid.Column="0" Grid.Row="6" x:Name="btn_sonderfall_plusminus" Content="+/-" Click="btn_sonderfall_plusminus_Click"/>
+        <Button Grid.Column="3" Grid.Row="6" x:Name="btn_sonderfall_gleich" Content="=" Click="btn_sonderfall_gleich_Click" />
+        <Button Grid.Column="2" Grid.Row="6" x:Name="btn_sonderfall_komma" Content="," Click="btn_sonderfall_komma_Click" />
+
+
+
+        <TextBox x:Name="textBox_history" Grid.ColumnSpan ="4" Grid.Row="0" IsReadOnly="True" Text="" TextAlignment="Right" VerticalAlignment="Bottom" Foreground="Gray" BorderThickness= "0" FontSize = "30"/>
+
+        <TextBox x:Name="textBox_display" Grid.ColumnSpan ="4" Grid.Row="1" IsReadOnly="True" Text="0" TextAlignment="Right" VerticalAlignment="Bottom" BorderThickness="0" FontSize = "40" TextWrapping="Wrap"/>
+
+        <TextBox x:Name="debug_Textbox" Grid.ColumnSpan="2" Grid.Column="4" BorderThickness="0" Grid.RowSpan="7" TextAlignment="Center" VerticalAlignment="Top"></TextBox>
+    </Grid>
+</Window>
