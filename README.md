@@ -48,7 +48,7 @@ Mit dem Wissen aus Ausbildung und Beruf sehe ich heute vieles, was ich damals ni
 - **Fest eingetragene Pfade:** Die Dateien lagen ursprünglich fest auf `E:\` – auf jedem anderen Rechner stürzte das Programm direkt ab.
 - **Fehlerbehandlung:** Fehlt eine Zeile in der Konfiguration oder steht dort etwas Unerwartetes, stürzt die App ab, statt auf Standardwerte zurückzufallen.
 - **Keine Tests:** Gerade die Zahlwort-Umwandlung wäre ideal für Unit-Tests gewesen.
-- **Benennung:** Projekt- und Solution-Name („Tag 2“, „Tag 4“) erzählen eher vom Praktikumsablauf als vom Inhalt.
+- **Benennung:** Projekt und Solution hießen ursprünglich „Taschenrechner Praktikum Tag 2“ bzw. „Tag 4“ – das erzählte eher vom Praktikumsablauf als vom Inhalt. Die Dateien heißen inzwischen schlicht „Taschenrechner“, im Namespace `Taschenrechner_Praktikum_Tag_2` ist der alte Name aber bis heute erhalten.
 
 ## Projekt starten
 
@@ -57,7 +57,7 @@ Mit dem Wissen aus Ausbildung und Beruf sehe ich heute vieles, was ich damals ni
 ### Mit Visual Studio
 
 1. Visual Studio mit dem Workload **„.NET-Desktopentwicklung“** installieren.
-2. `Taschenrechner Praktikum Tag 4.sln` öffnen.
+2. `Taschenrechner.sln` öffnen.
 3. Mit **F5** starten.
 
 ### Ohne Visual Studio (PowerShell)
@@ -65,8 +65,8 @@ Mit dem Wissen aus Ausbildung und Beruf sehe ich heute vieles, was ich damals ni
 Im Repo-Ordner bauen und starten:
 
 ```powershell
-& "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe" "Taschenrechner Praktikum Tag 4.sln"
-& ".\src\bin\Debug\Taschenrechner Praktikum Tag 2.exe"
+& "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe" Taschenrechner.sln
+& .\src\bin\Debug\Taschenrechner.exe
 ```
 
 Für einen sauberen Build ohne Warnungen sollte das *.NET Framework 4.7.2 Developer Pack* installiert sein.
