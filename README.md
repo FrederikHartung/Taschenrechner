@@ -73,7 +73,7 @@ Für einen sauberen Build ohne Warnungen sollte das *.NET Framework 4.7.2 Develo
 
 ## Konfiguration
 
-Beim Start wird `test/Taschenrechner Konfiguration.txt` eingelesen. Die Bedeutung ergibt sich aus der **Zeilennummer**, der Wert steht jeweils hinter ` = `:
+Beim Start wird `config/Taschenrechner Konfiguration.txt` eingelesen. Die Bedeutung ergibt sich aus der **Zeilennummer**, der Wert steht jeweils hinter ` = `:
 
 | Zeile | Option | Werte | Standard |
 |---|---|---|---|
@@ -86,7 +86,7 @@ Hinweise:
 - Zeile 1 muss exakt `textBoxAusgabe = text` lauten, sonst wird `zahlen` verwendet.
 - Die Datei muss alle vier Zeilen enthalten, und in Zeile 2 muss eine gültige Zahl stehen – sonst stürzt die App ab.
 
-Eine Vorlage liegt unter `Taschenrechner Praktikum Tag 2/Muster Taschenrechner Konfiguration.txt`. Laufzeitausgaben schreibt die App nach `test/Taschenrechner Debug.txt`.
+Eine Vorlage liegt unter `Taschenrechner Praktikum Tag 2/Muster Taschenrechner Konfiguration.txt`. Laufzeitausgaben schreibt die App nach `config/Taschenrechner Debug.txt`.
 
 ## Lizenz
 
