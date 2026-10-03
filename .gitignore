@@ -6,3 +6,6 @@
 # Build-Ausgaben
 [Bb]in/
 [Oo]bj/
+
+# Laufzeit-Protokoll der App
+test/Taschenrechner Debug.txt
