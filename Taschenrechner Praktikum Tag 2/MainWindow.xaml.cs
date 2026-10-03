@@ -34,9 +34,10 @@ namespace Taschenrechner_Praktikum_Tag_2
         int nachkommaStellen;
 
         //Konfigurationsdatei
-        // string zeilen_speicherort = 
-        static string speicherort_konfig = @"E:\Taschenrechner Praktikum\test\Taschenrechner Konfiguration.txt";
-        static string speicherort_debug = @"E:\Taschenrechner Praktikum\test\Taschenrechner Debug.txt";
+        // Pfade relativ zur .exe (bin\Debug) -> Ordner "test" im Projektverzeichnis
+        static string speicherort_test = System.IO.Path.GetFullPath(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\test"));
+        static string speicherort_konfig = System.IO.Path.Combine(speicherort_test, "Taschenrechner Konfiguration.txt");
+        static string speicherort_debug = System.IO.Path.Combine(speicherort_test, "Taschenrechner Debug.txt");
         string[] zeilen = System.IO.File.ReadAllLines(speicherort_konfig);
         string textBoxAusgabe;
 
