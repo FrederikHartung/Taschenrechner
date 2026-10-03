@@ -66,7 +66,7 @@ Im Repo-Ordner bauen und starten:
 
 ```powershell
 & "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe" "Taschenrechner Praktikum Tag 4.sln"
-& ".\Taschenrechner Praktikum Tag 2\bin\Debug\Taschenrechner Praktikum Tag 2.exe"
+& ".\src\bin\Debug\Taschenrechner Praktikum Tag 2.exe"
 ```
 
 Für einen sauberen Build ohne Warnungen sollte das *.NET Framework 4.7.2 Developer Pack* installiert sein.
@@ -86,7 +86,7 @@ Hinweise:
 - Zeile 1 muss exakt `textBoxAusgabe = text` lauten, sonst wird `zahlen` verwendet.
 - Die Datei muss alle vier Zeilen enthalten, und in Zeile 2 muss eine gültige Zahl stehen – sonst stürzt die App ab.
 
-Eine Vorlage liegt unter `Taschenrechner Praktikum Tag 2/Muster Taschenrechner Konfiguration.txt`. Laufzeitausgaben schreibt die App nach `config/Taschenrechner Debug.txt`.
+Eine Vorlage liegt unter `src/Muster Taschenrechner Konfiguration.txt`. Laufzeitausgaben schreibt die App nach `config/Taschenrechner Debug.txt`.
 
 ## Lizenz
 
