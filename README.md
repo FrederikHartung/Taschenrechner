@@ -1,4 +1,4 @@
-# Taschenrechner (Praktikum)
+# Taschenrechner
 
 Dieser Taschenrechner war **mein erstes Programmierprojekt**. Er entstand im April 2021 während eines Praktikums vor meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
 
