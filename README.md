@@ -34,7 +34,9 @@ Mit meinem damals sehr begrenzten Programmierwissen war das eine echte Herausfor
 
 ## Originalzustand
 
-Der Code ist bewusst so belassen, wie er damals entstanden ist – mit allen Ecken, Kanten und Bugs. Einzige spätere Änderung: Die Pfade zur Konfigurations- und Debugdatei werden relativ zur `.exe` aufgelöst statt fest auf `E:\`, damit sich das Projekt heute noch starten lässt.
+Der Code ist bewusst so belassen, wie er damals entstanden ist – mit allen Ecken, Kanten und Bugs. Einzige spätere Änderung am Code: Die Pfade zur Konfigurations- und Debugdatei werden relativ zur `.exe` aufgelöst statt fest auf `E:\`, damit sich das Projekt heute noch starten lässt.
+
+Außerdem wurde die Projektdatei auf das moderne SDK-Format umgestellt, damit sich das Projekt mit `dotnet run` starten lässt. Zielplattform ist weiterhin .NET Framework 4.7.2. Den unveränderten Originalstand gibt es unter dem Tag [`praktikum-2021`](https://github.com/FrederikHartung/Taschenrechner-Praktikum2/tree/praktikum-2021).
 
 ## Was ich heute anders machen würde
 
@@ -52,24 +54,23 @@ Mit dem Wissen aus Ausbildung und Beruf sehe ich heute vieles, was ich damals ni
 
 ## Projekt starten
 
-**Voraussetzungen:** Windows und das .NET Framework 4.7.2 (auf aktuellen Windows-Versionen bereits vorhanden).
+**Voraussetzungen:** Windows und ein aktuelles [.NET SDK](https://dotnet.microsoft.com/download). Das .NET Framework 4.7.2, auf dem die App läuft, ist auf aktuellen Windows-Versionen bereits vorhanden.
+
+### Mit dem .NET SDK
+
+Im Repo-Ordner:
+
+```powershell
+dotnet run --project src
+```
+
+Die fertige Anwendung liegt danach unter `src\bin\Debug\Taschenrechner.exe`.
 
 ### Mit Visual Studio
 
 1. Visual Studio mit dem Workload **„.NET-Desktopentwicklung“** installieren.
 2. `Taschenrechner.sln` öffnen.
 3. Mit **F5** starten.
-
-### Ohne Visual Studio (PowerShell)
-
-Im Repo-Ordner bauen und starten:
-
-```powershell
-& "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe" Taschenrechner.sln
-& .\src\bin\Debug\Taschenrechner.exe
-```
-
-Für einen sauberen Build ohne Warnungen sollte das *.NET Framework 4.7.2 Developer Pack* installiert sein.
 
 ## Konfiguration
 
